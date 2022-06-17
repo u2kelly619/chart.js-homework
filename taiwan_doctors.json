@@ -1,0 +1,200 @@
+[
+  {
+    "city": "新北市",
+    "male": 9690,
+    "female": 3911,
+    "sum": 13601,
+    "city_doctor_ratio": 0.1392361,
+    "city_population": 3989880,
+    "city_population_ratio": 0.0034
+  },
+  {
+    "city": "台北市",
+    "male": 18721,
+    "female": 7920,
+    "sum": 26641,
+    "city_doctor_ratio": 0.272729134,
+    "city_population": 2490445,
+    "city_population_ratio": 0.0107
+  },
+  {
+    "city": "桃園市",
+    "male": 5402,
+    "female": 1684,
+    "sum": 7086,
+    "city_doctor_ratio": 0.07254077,
+    "city_population": 2266913,
+    "city_population_ratio": 0.0031
+  },
+  {
+    "city": "台中市",
+    "male": 8048,
+    "female": 3425,
+    "sum": 11473,
+    "city_doctor_ratio": 0.117451348,
+    "city_population": 2806385,
+    "city_population_ratio": 0.0041
+  },
+  {
+    "city": "台南市",
+    "male": 5688,
+    "female": 1999,
+    "sum": 7687,
+    "city_doctor_ratio": 0.078693324,
+    "city_population": 1855449,
+    "city_population_ratio": 0.0041
+  },
+  {
+    "city": "高雄市",
+    "male": 7413,
+    "female": 3029,
+    "sum": 10442,
+    "city_doctor_ratio": 0.106896799,
+    "city_population": 2731782,
+    "city_population_ratio": 0.0038
+  },
+  {
+    "city": "宜蘭縣",
+    "male": 720,
+    "female": 237,
+    "sum": 957,
+    "city_doctor_ratio": 0.009796996,
+    "city_population": 449435,
+    "city_population_ratio": 0.0021
+  },
+  {
+    "city": "新竹縣",
+    "male": 2447,
+    "female": 611,
+    "sum": 3058,
+    "city_doctor_ratio": 0.031305345,
+    "city_population": 575746,
+    "city_population_ratio": 0.0053
+  },
+  {
+    "city": "苗栗縣",
+    "male": 837,
+    "female": 248,
+    "sum": 1085,
+    "city_doctor_ratio": 0.011107357,
+    "city_population": 536585,
+    "city_population_ratio": 0.002
+  },
+  {
+    "city": "彰化縣",
+    "male": 1566,
+    "female": 602,
+    "sum": 2168,
+    "city_doctor_ratio": 0.022194241,
+    "city_population": 1250631,
+    "city_population_ratio": 0.0017
+  },
+  {
+    "city": "南投縣",
+    "male": 716,
+    "female": 258,
+    "sum": 974,
+    "city_doctor_ratio": 0.009971029,
+    "city_population": 482841,
+    "city_population_ratio": 0.002
+  },
+  {
+    "city": "雲林縣",
+    "male": 856,
+    "female": 259,
+    "sum": 1115,
+    "city_doctor_ratio": 0.011414473,
+    "city_population": 667667,
+    "city_population_ratio": 0.0017
+  },
+  {
+    "city": "嘉義縣",
+    "male": 642,
+    "female": 226,
+    "sum": 868,
+    "city_doctor_ratio": 0.008885886,
+    "city_population": 491507,
+    "city_population_ratio": 0.0018
+  },
+  {
+    "city": "花蓮縣",
+    "male": 684,
+    "female": 362,
+    "sum": 1046,
+    "city_doctor_ratio": 0.010708107,
+    "city_population": 320405,
+    "city_population_ratio": 0.0033
+  },
+  {
+    "city": "金門縣",
+    "male": 426,
+    "female": 121,
+    "sum": 547,
+    "city_doctor_ratio": 0.005599746,
+    "city_population": 140740,
+    "city_population_ratio": 0.0039
+  },
+  {
+    "city": "屏東縣",
+    "male": 1203,
+    "female": 475,
+    "sum": 1678,
+    "city_doctor_ratio": 0.017178015,
+    "city_population": 801914,
+    "city_population_ratio": 0.0021
+  },
+  {
+    "city": "基隆市",
+    "male": 639,
+    "female": 205,
+    "sum": 844,
+    "city_doctor_ratio": 0.008640193,
+    "city_population": 362239,
+    "city_population_ratio": 0.0023
+  },
+  {
+    "city": "連江縣",
+    "male": 15,
+    "female": 1,
+    "sum": 16,
+    "city_doctor_ratio": 0.000163795,
+    "city_population": 13711,
+    "city_population_ratio": 0.0012
+  },
+  {
+    "city": "新竹市",
+    "male": 3667,
+    "female": 958,
+    "sum": 4625,
+    "city_doctor_ratio": 0.047347031,
+    "city_population": 451689,
+    "city_population_ratio": 0.0102
+  },
+  {
+    "city": "嘉義市",
+    "male": 826,
+    "female": 333,
+    "sum": 1159,
+    "city_doctor_ratio": 0.01186491,
+    "city_population": 263821,
+    "city_population_ratio": 0.0044
+  },
+  {
+    "city": "台東縣",
+    "male": 247,
+    "female": 92,
+    "sum": 339,
+    "city_doctor_ratio": 0.003470409,
+    "city_population": 213032,
+    "city_population_ratio": 0.0016
+  },
+  {
+    "city": "澎湖縣",
+    "male": 189,
+    "female": 85,
+    "sum": 274,
+    "city_doctor_ratio": 0.002804992,
+    "city_population": 106174,
+    "city_population_ratio": 0.0026
+  }
+]
